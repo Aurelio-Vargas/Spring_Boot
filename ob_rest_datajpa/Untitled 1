@@ -1,0 +1,17 @@
+## Spring Boot
+
+Proyecto Spring Boot con las dependencias / starter:
+- H2
+- Spring Data JPA
+- Spring Web
+- Spring Boot Dev Tools
+
+
+Aplicacion API REST con acceso a base de datos H2 para persistir la informacion.
+
+El acceso se puede realizar desde Postman o Navegador.
+
+## Entidad book
+1.- Clase books
+2.- BookRepository
+3.- BookController
